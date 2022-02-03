@@ -29,6 +29,7 @@
     <a href="https://fastspring.com/" target="_blank"> <img src="https://m6u8p7c2.rocketcdn.me/wp/wp-content/themes/fastspring-bamboo/images/logos/fastspring-logo-orange-gray.svg" alt="fastspring" width="80" height="40"/> </a>
     <a href="https://cmake.org/" target="_blank"> <img src="https://cmake.org/wp-content/uploads/2019/05/Cmake-logo-header.png" alt="cmake" width="110" height="40"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" alt="mongodb" width="110" height="40"/> </a>
+    <a href="https://www.sentry.io/" target="_blank"> <img src="resources/sentry.png" alt="sentry" width="110" height="35"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilgarlunin&show_icons=true&theme=dark&locale=en&layout=compact" alt="ilgarlunin" /></p>
