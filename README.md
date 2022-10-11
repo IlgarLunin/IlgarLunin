@@ -23,7 +23,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
     <a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/>
-    <a href="https://doc.qt.io/qtforpython/shiboken6/index.html" target="_blank"> <img src="https://doc.qt.io/qtforpython/shiboken6/_static/pysidelogo.png" alt="pyside" width="40" height="40"/> </a>
+    <a href="https://doc.qt.io/qtforpython/shiboken6/index.html" target="_blank"> <img src="https://doc.qt.io/qtforpython/_static/qtforpython.png" alt="pyside" width="40" height="40"/> </a>
     <a href="https://unrealengine.com/" target="_blank"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a>
     <a href="https://licensespring.com/" target="_blank"> <img src="https://licensespring.com/static/logo-text-23fed8db631e430ac3fbf32248dd378e.png" alt="licensespring" width="80" height="40"/> </a>
     <a href="https://fastspring.com/" target="_blank"> <img src="https://m6u8p7c2.rocketcdn.me/wp/wp-content/themes/fastspring-bamboo/images/logos/fastspring-logo-orange-gray.svg" alt="fastspring" width="80" height="40"/> </a>
